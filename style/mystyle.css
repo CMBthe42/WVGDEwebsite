@@ -122,6 +122,8 @@
   and (orientation: landscape) { 
 
 }
+
+
 .grow 
   {
     transition: all .2s ease-in-out;
@@ -140,6 +142,8 @@ body {
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 26.4px
+  
+  
 }
 
 #header {
